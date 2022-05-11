@@ -1,0 +1,5 @@
+post http://localhost:5500/api/item
+Content-type: application/json
+{
+    "item": "this is the first item"
+}
